@@ -13,8 +13,8 @@ I WANT a website to assist me with small talk by giving me current events and jo
 SO THAT I can feel more comfortable in daily conversations.<br>
 
 ## Link to Site and GitHub Repository:
-[Here is a link to the deployed website](https://esmondkim.github.io/Project-1/) 
-[Here is a link to the repository](https://github.com/EsmondKim/Project-1) 
+[Here is a link to the deployed website](https://esmondkim.github.io/Project-1/)<br>
+[Here is a link to the repository](https://github.com/EsmondKim/Project-1)<br>
 
 ## Screenshots
 Basic Page layout. Each of the buttons generates content to the page<br>
