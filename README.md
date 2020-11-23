@@ -23,10 +23,10 @@ Basic Page layout. Each of the buttons generates content to the page<br>
 Human interactions tally increases when you push the button<br>
 ![Screen Shot 2020-11-13 at 8 10 16 PM](https://user-images.githubusercontent.com/71057611/99136742-614edd00-25ec-11eb-823f-846fdce49e03.png)<br>
 
-[Coding Team Profiles:](https://github.com/UrkelX)<br> 
-[Coding Team Profiles:](https://github.com/dvorav)<br> 
-[Coding Team Profiles:](https://github.com/spencej123)<br> 
-[Coding Team Profiles:](https://github.com/jessparnow)<br> 
+[Coding Team Profiles: Jordan Moses](https://github.com/UrkelX)<br> 
+[Coding Team Profiles: Dillon Voravongsy ](https://github.com/dvorav)<br> 
+[Coding Team Profiles: Spencer Johnson](https://github.com/spencej123)<br> 
+[Coding Team Profiles: Jess Parnow](https://github.com/jessparnow)<br> 
 
 ## Contribution
 For any changes:<br>
