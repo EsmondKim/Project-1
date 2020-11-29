@@ -1,5 +1,5 @@
 # Introversion
-This app attempts to solve the problems faced by introverted people when they must make conversaton in daily life.  Based on anecdotal experience the computer science and coding industry attracts some introverted people.  This is a fun app that helps introverts navigate awkward social environments. This app will generate jokes and news that will allow the user to engage in that dreadful small talk that make some introverts uncomfortable.<br>
+This app attempts to solve the problems faced by introverted people when they must make conversaton in daily life.  Based on anecdotal experience the computer science and coding industries attract some introverted people.  This is a fun app that helps introverts navigate awkward social environments. This app will generate jokes and news that will allow the user to engage in that dreadful small talk that make some introverts uncomfortable.<br>
 
 Importantly, this app is the result of a group project with Boot Camp teammates and fellow coders Jess Parnow, Spencer Johnson, Dillon Voravongsy, and Jordan Moses.  Therefore, this app highlights my ability to work on a coding team and the capacity to use GitHub's version control and branch features.<br>
 
